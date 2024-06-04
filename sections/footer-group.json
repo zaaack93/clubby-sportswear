@@ -1,0 +1,74 @@
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "logo": {
+          "type": "logo",
+          "settings": {
+            "logo_max_width": 100
+          }
+        },
+        "menu": {
+          "type": "menu",
+          "settings": {
+            "main_linklist": "main-menu",
+            "show_heading": false
+          }
+        },
+        "menu_7MwnMg": {
+          "type": "menu",
+          "settings": {
+            "main_linklist": "footer",
+            "show_heading": false
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "text": "<p>Clubby Sportswear represents a community through an intersection sport, fashion and culture. If you're more of a reader than a wearer, head over to Clubby Sports site.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "logo",
+        "menu",
+        "menu_7MwnMg",
+        "text"
+      ],
+      "settings": {
+        "show_payment_icons": false,
+        "show_locale_selector": false,
+        "show_country_selector": true,
+        "show_newsletter": true,
+        "newsletter_section_title": "",
+        "newsletter_subheading": "<p>Receive special offers and first look at new products.<\/p>",
+        "newsletter_color_scheme": "scheme1",
+        "show_policy_links": false,
+        "show_grid_border": true,
+        "block_heading_font": "font-heading",
+        "color_scheme": "scheme1"
+      }
+    },
+    "hero-logo": {
+      "type": "hero-logo",
+      "disabled": true,
+      "settings": {
+        "home_page_only": true,
+        "show_bottom_border": false,
+        "mobile_text_scale": 2,
+        "desktop_text_scale": 7,
+        "alignment": "left",
+        "logo_max_width": 100,
+        "color_scheme": ""
+      }
+    }
+  },
+  "order": [
+    "footer",
+    "hero-logo"
+  ]
+}

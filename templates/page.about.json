@@ -1,0 +1,123 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "lg:w-full",
+        "content_position": "lg:justify-start",
+        "color_scheme": "",
+        "override_header_footer_color_scheme": false
+      }
+    },
+    "image_with_text_overlay_gUmJVc": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/LIFESTYLE-1-1800x800.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/LIFESTYLE-1-1080x1080.jpg",
+        "indent_image": false,
+        "height": "natural",
+        "title": "",
+        "heading_size": "text-heading-feature",
+        "text": "",
+        "content_position": "justify-center items-center text-center",
+        "content_width_desktop": "lg:w-2\/3",
+        "color_scheme": "",
+        "scheme_text_color_only": false,
+        "cta_link": "",
+        "cta_text": "",
+        "cta_style": "link"
+      }
+    },
+    "feature_text_iDDwJz": {
+      "type": "feature-text",
+      "settings": {
+        "text": "<p>Clubby Sportswear represents a community through an intersection of sport, fashion and culture. If you're more of a reader than a wearer, head over to Clubby Sports site.<\/p>",
+        "mobile_text_scale": 1,
+        "desktop_text_scale": 3,
+        "font": "font-heading",
+        "text_alignment": "text-left",
+        "cta_link": "https:\/\/clubbysports.com",
+        "cta_text": "",
+        "cta_style": "link",
+        "desktop_width": "full",
+        "desktop_alignment": "left",
+        "color_scheme": "scheme1"
+      }
+    },
+    "image_with_text_J4EGBf": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/download-_1.jpg",
+        "image_position": "left",
+        "image_size": "half",
+        "crop_image": "1",
+        "indent_image": false,
+        "fill_image": false,
+        "image_color_scheme": "",
+        "title": "",
+        "richtext": "<p>Axel Arigato is a people-powered brand grounded by an inclusive vision, refined aesthetic, and focus on craft and culture. Driven by a curiosity for the world around us, we connect our approach to the rhythm of what is happening and draw inspiration from contemporary society and its ever-changing spirit.<br\/><br\/>We are known for crafting a diverse collection of elevated classics centered around footwear and grounded by a refined aesthetic and wearability. Our name reflects our gratitude for our minimalist, open-minded Swedish origins, and the Japanese pursuit of perfection in the smallest of details.<\/p><p>Our mission is deeply rooted in the principles of positivity, inclusivity, and the creation of memorable experiences. Axel Arigato exists to bring people together and be a positive platform for all.<\/p>",
+        "font": "font-body",
+        "text_size": "text-base",
+        "text_alignment": "text-left",
+        "text_position": "items-center",
+        "color_scheme": "",
+        "cta_link": "",
+        "cta_text": "",
+        "cta_style": "link"
+      }
+    },
+    "blog_posts_NJeeWN": {
+      "type": "blog-posts",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "blog": "news",
+        "post_limit": 3,
+        "blog_show_images": true,
+        "blog_show_author": false,
+        "blog_show_date": false,
+        "show_view_all": false,
+        "crop": "1",
+        "color_scheme": ""
+      }
+    },
+    "image_with_text_overlay_CyyNcK": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BTS-1800x800.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/BTS-1080x1080.jpg",
+        "indent_image": false,
+        "height": "natural",
+        "title": "",
+        "heading_size": "text-heading-feature",
+        "text": "",
+        "content_position": "justify-start items-end text-left",
+        "content_width_desktop": "lg:w-2\/3",
+        "color_scheme": "scheme4",
+        "scheme_text_color_only": false,
+        "cta_link": "shopify:\/\/pages\/privacy-policy",
+        "cta_text": "Visit Clubby Sports",
+        "cta_style": "link"
+      }
+    },
+    "white_space_wYPzqC": {
+      "type": "white-space",
+      "disabled": true,
+      "settings": {
+        "height": 6,
+        "hide_bottom_border_above": false,
+        "color_scheme": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_gUmJVc",
+    "feature_text_iDDwJz",
+    "image_with_text_J4EGBf",
+    "blog_posts_NJeeWN",
+    "image_with_text_overlay_CyyNcK",
+    "white_space_wYPzqC"
+  ]
+}

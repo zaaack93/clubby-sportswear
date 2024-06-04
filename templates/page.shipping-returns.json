@@ -1,0 +1,59 @@
+{
+  "sections": {
+    "image_with_text_overlay_VWxFKH": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BTS-1800x800.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/BTS-1080x1080.jpg",
+        "indent_image": false,
+        "height": "natural",
+        "title": "",
+        "heading_size": "text-heading-feature",
+        "text": "",
+        "content_position": "justify-center items-center text-center",
+        "content_width_desktop": "lg:w-2\/3",
+        "color_scheme": "",
+        "scheme_text_color_only": false,
+        "cta_link": "",
+        "cta_text": "",
+        "cta_style": "link"
+      }
+    },
+    "main": {
+      "type": "main-page-contact",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "override_header_footer_color_scheme": false
+      }
+    },
+    "rich_text_fRyQTh": {
+      "type": "rich-text",
+      "settings": {
+        "title": "",
+        "text": "<p><strong>SHIPPING COSTS & TIMEFRAMES<\/strong><\/p><p><br\/><strong>New Zealand<\/strong><\/p><p>Free shipping over NZD $170<br\/>Otherwise NZD $9<br\/>Express Courier (1-2 working days)<\/p><p><br\/><strong>Australia<\/strong><\/p><p>Free shipping over AUD $219<br\/>Otherwise AUD $15<br\/>DHL Express (1-4 working days)<\/p><p><br\/><strong>United States<\/strong><\/p><p>Free shipping over USD $189<br\/>Otherwise USD $19<br\/>DHL Express (3-6 working days)<\/p><p><br\/><strong>Rest of the World<\/strong><\/p><p>Options and pricing shown at checkout.<br\/>DHL Express (4-10 working days)<br\/><\/p><p><br\/><\/p><p><br\/><\/p><p><\/p><p><\/p><p><strong>RETURNS<\/strong><\/p><p><br\/>For all returns and enquires, please contact us at contact@clubbysportswear.com<\/p>",
+        "text_alignment": "text-left",
+        "cta_link": "shopify:\/\/collections\/all-products",
+        "cta_text": "",
+        "cta_style": "link",
+        "desktop_width": "full",
+        "desktop_alignment": "left",
+        "color_scheme": ""
+      }
+    },
+    "white_space_xE8jnX": {
+      "type": "white-space",
+      "settings": {
+        "height": 6,
+        "hide_bottom_border_above": false,
+        "color_scheme": ""
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_VWxFKH",
+    "main",
+    "rich_text_fRyQTh",
+    "white_space_xE8jnX"
+  ]
+}

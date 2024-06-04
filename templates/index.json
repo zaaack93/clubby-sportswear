@@ -1,0 +1,149 @@
+{
+  "sections": {
+    "media_split_c4D7bA": {
+      "type": "media-split",
+      "blocks": {
+        "image_LewKBa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download-_1.jpg",
+            "indent": false,
+            "link": "shopify:\/\/collections\/all-products",
+            "caption": "Shop All →",
+            "content_position": "justify-start items-end text-left",
+            "color_scheme": "scheme1"
+          }
+        },
+        "image_QzaUyp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download-_2.jpg",
+            "indent": false,
+            "link": "shopify:\/\/collections\/best-sellers",
+            "caption": "Look Book →",
+            "content_position": "justify-start items-end text-left",
+            "color_scheme": "scheme1"
+          }
+        }
+      },
+      "block_order": [
+        "image_LewKBa",
+        "image_QzaUyp"
+      ],
+      "settings": {
+        "first_block_width": "6",
+        "first_block_media_crop": "1",
+        "second_block_media_style": "fill"
+      }
+    },
+    "white_space_QhBbjD": {
+      "type": "white-space",
+      "disabled": true,
+      "settings": {
+        "height": 3,
+        "hide_bottom_border_above": false,
+        "color_scheme": ""
+      }
+    },
+    "text_split_TCr8je": {
+      "type": "text-split",
+      "blocks": {
+        "text_pEdWTd": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "richtext": "<p>Browse Latest<\/p>",
+            "font": "font-heading",
+            "text_size": "text-heading-standard",
+            "text_alignment": "text-left",
+            "text_position": "items-center",
+            "cta_link": "",
+            "cta_text": "",
+            "cta_style": "link",
+            "color_scheme": ""
+          }
+        },
+        "text_kP8eeT": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "richtext": "",
+            "font": "font-body",
+            "text_size": "text-base",
+            "text_alignment": "text-right",
+            "text_position": "items-center",
+            "cta_link": "shopify:\/\/collections\/all-products",
+            "cta_text": "Shop All",
+            "cta_style": "link",
+            "color_scheme": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_pEdWTd",
+        "text_kP8eeT"
+      ],
+      "settings": {
+        "first_block_width": "half",
+        "first_block_ratio": "0"
+      }
+    },
+    "featured_collection_aDhwha": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "studio",
+        "product_tile_type": "standard",
+        "grid": 3,
+        "rows": 2,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "enable_quick_buy": false,
+        "quick_buy_button_style": "theme-button",
+        "color_scheme": ""
+      }
+    },
+    "featured_collection_chUKrD": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "collection": "frontpage",
+        "product_tile_type": "standard",
+        "grid": 3,
+        "rows": 2,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "enable_quick_buy": false,
+        "quick_buy_button_style": "theme-button",
+        "color_scheme": ""
+      }
+    },
+    "image_with_text_overlay_GVPVRP": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/download-2.jpg",
+        "indent_image": false,
+        "height": "natural",
+        "title": "",
+        "heading_size": "text-heading-feature",
+        "text": "",
+        "content_position": "justify-center items-center text-center",
+        "content_width_desktop": "lg:w-2\/3",
+        "color_scheme": "",
+        "scheme_text_color_only": false,
+        "cta_link": "",
+        "cta_text": "",
+        "cta_style": "link"
+      }
+    }
+  },
+  "order": [
+    "media_split_c4D7bA",
+    "white_space_QhBbjD",
+    "text_split_TCr8je",
+    "featured_collection_aDhwha",
+    "featured_collection_chUKrD",
+    "image_with_text_overlay_GVPVRP"
+  ]
+}

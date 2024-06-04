@@ -1,0 +1,34 @@
+{
+  "sections": {
+    "image_with_text_overlay_VWxFKH": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BTS2-1800x800.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/BTS2-1080x1080.jpg",
+        "indent_image": false,
+        "height": "natural",
+        "title": "",
+        "heading_size": "text-heading-feature",
+        "text": "",
+        "content_position": "justify-center items-center text-center",
+        "content_width_desktop": "lg:w-2\/3",
+        "color_scheme": "",
+        "scheme_text_color_only": false,
+        "cta_link": "",
+        "cta_text": "",
+        "cta_style": "link"
+      }
+    },
+    "main": {
+      "type": "main-page-contact",
+      "settings": {
+        "color_scheme": "",
+        "override_header_footer_color_scheme": false
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_VWxFKH",
+    "main"
+  ]
+}

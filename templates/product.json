@@ -1,0 +1,256 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "text_size": "text-base"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "option_style": "buttons",
+            "hide_option_labels": false,
+            "hide_sold_out_variants": false,
+            "hide_unavailable_variants": false
+          }
+        },
+        "popup_agFRDq": {
+          "type": "popup",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "text": "Popup link text",
+            "page": "about",
+            "text_color": "secondary"
+          }
+        },
+        "quantity_selector_hMd6hy": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "enable_payment_button": false,
+            "show_pickup_availability": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "inventory_a7jgcG": {
+          "type": "inventory",
+          "settings": {
+            "low_inventory_threshold": 16,
+            "show_inventory_quantity": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "enable_collapsible_tabs": true,
+            "truncate_description": false,
+            "max_words": 30
+          }
+        },
+        "collapsible_tab_RMxGNj": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Product Info",
+            "heading_text_style": "font-heading",
+            "content": "<ul><li>370gsm heavy weight fleece. <\/li><li>Friends Screen printed on front. <\/li><li>Left cuff & top of hood embroidered.<\/li><li>Pre washed so your clothes don’t shrink.<\/li><li>Thick rib cuffs and hemline.<\/li><li>Fleece lined Kangaroo pocket.<\/li><li>Oversized Boxy fit.<\/li><\/ul>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "collapsible_tab_EMbTpB": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Fit",
+            "heading_text_style": "font-heading",
+            "content": "<p>Boxy, slightly cropped. fits true to size.<\/p><p>Sean wears a Large.<\/p><p>Dyl wears a Medium.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "collapsible_tab_jrMkeQ": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping",
+            "heading_text_style": "font-heading",
+            "content": "<p>Free Delivery on orders over $100 Australia Wide.<\/p><p>$7.95 Standard Delivery on orders under $100 Australia Wide.<\/p><p>Please allow 2-5 business days (Mon-Fri) transit time.<\/p><p>We do our best to ensure that your order is processed and dispatched within 2 business days of being received.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "collapsible_tab_Bce7Gn": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Returns",
+            "heading_text_style": "font-heading",
+            "content": "<p>You can return your item within 7 days of delivery, no questions asked.<\/p><p><br\/>Returns are sent back at the expense of the customer.<br\/><br\/>All end of season sale items are final.<br\/><br\/>For more information please read our full <a href=\"https:\/\/porterjamessports.com\/pages\/refund-policy\" target=\"_blank\" title=\"https:\/\/porterjamessports.com\/pages\/refund-policy\">Refund Policy<\/a> or send us a message.<br\/><br\/>To commence a return, select 'Returns' within our Concierge.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "complementary_XFzGKM": {
+          "type": "complementary",
+          "disabled": true,
+          "settings": {
+            "heading": "Complete the fit",
+            "heading_text_style": "heading",
+            "product_tile_type": "standard",
+            "product_list_limit": 10,
+            "products_per_row_desktop": "2",
+            "products_per_row_mobile": "2",
+            "enable_quick_buy": true,
+            "quick_buy_button_style": "theme-button"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "variant_picker",
+        "popup_agFRDq",
+        "quantity_selector_hMd6hy",
+        "buy_buttons",
+        "inventory_a7jgcG",
+        "description",
+        "collapsible_tab_RMxGNj",
+        "collapsible_tab_EMbTpB",
+        "collapsible_tab_jrMkeQ",
+        "collapsible_tab_Bce7Gn",
+        "complementary_XFzGKM"
+      ],
+      "settings": {
+        "desktop_media_width": "one-half",
+        "desktop_media_position": "left",
+        "two_media_per_row": false,
+        "first_media_full_width": false,
+        "variant_media_behavior": "swap",
+        "always_show_product_featured_media_first": false,
+        "single_variant_mode": false,
+        "enable_variant_media": false,
+        "enable_image_zoom": false,
+        "enable_video_looping": false,
+        "max_width_of_content": "w-full",
+        "color_scheme": "",
+        "override_header_footer_color_scheme": false
+      }
+    },
+    "white_space_qwaKYR": {
+      "type": "white-space",
+      "settings": {
+        "height": 2,
+        "hide_bottom_border_above": false,
+        "color_scheme": "scheme1"
+      }
+    },
+    "video_with_text_ehD4DV": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "shopify:\/\/files\/videos\/jonothan 2 with green caption.mov",
+        "mode": "preview",
+        "video_position": "right",
+        "video_size": "half",
+        "video_aspect_ratio": "natural",
+        "indent_video": false,
+        "fill_video": true,
+        "video_color_scheme": "",
+        "title": "Fit Check",
+        "richtext": "<p>Our Coach Jacket is boxy and fits a little cropped. Check out the video of Sean to catch a vibe.<br\/><br\/>He's 6'1, single, plays sport like he's got 2 left hands, and is wearing a large. <\/p>",
+        "font": "font-body",
+        "text_size": "text-base",
+        "text_alignment": "text-left",
+        "text_position": "items-center",
+        "color_scheme": "",
+        "cta_link": "",
+        "cta_text": "",
+        "cta_style": "link"
+      }
+    },
+    "faq_rb4QDU": {
+      "type": "faq",
+      "blocks": {
+        "question_38tzNa": {
+          "type": "question",
+          "settings": {
+            "question": "What are the shipping costs and delivery times?",
+            "answer": "<p>Well, it depends... We offer standard and express shipping options. Standard shipping is free for orders over $150 and typically takes 5-7 business days within Australia. Express shipping is available at an additional cost and usually takes 2-3 business days. International shipping rates and times will be calculated at checkout based on your location.<\/p>"
+          }
+        },
+        "question_nkgnDG": {
+          "type": "question",
+          "settings": {
+            "question": "What is your return and exchange policy?",
+            "answer": "<p>We get it - buying clothes online can be stressful. We want you to be completely satisfied with your purchase. If you're not happy with your order, you can return or exchange items within 14 days of receiving them. Items must be unworn, unwashed, and in their original condition with all tags attached. <\/p>"
+          }
+        },
+        "question_DwFEep": {
+          "type": "question",
+          "settings": {
+            "question": "How do I know what size to order?",
+            "answer": "<p>We understand the importance of a perfect fit. Please refer to our detailed size guide available on each product page and watch our fit video above. The guide includes measurements for all our sizes to help you find the best fit. If you're still unsure, feel free to hit us up for personalised feedback.<\/p>"
+          }
+        },
+        "question_hxHqxy": {
+          "type": "question",
+          "settings": {
+            "question": "How can I track my order?",
+            "answer": "<p>Once your order has been shipped, you will receive a confirmation email with a tracking number. You can use this number to track the status of your shipment through the carrier's tracking portal. If you have any issues or need further assistance, just reach out!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_38tzNa",
+        "question_nkgnDG",
+        "question_DwFEep",
+        "question_hxHqxy"
+      ],
+      "settings": {
+        "title": "More Details",
+        "two_columns_desktop": true,
+        "heading_font": "font-heading",
+        "color_scheme": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "You may also like",
+        "product_tile_type": "standard",
+        "limit": "4",
+        "products_per_row_desktop": "4",
+        "products_per_row_mobile": "2",
+        "enable_quick_buy": false,
+        "quick_buy_button_style": "theme-button",
+        "color_scheme": ""
+      }
+    },
+    "white_space_f6iR4y": {
+      "type": "white-space",
+      "settings": {
+        "height": 6,
+        "hide_bottom_border_above": false,
+        "color_scheme": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "white_space_qwaKYR",
+    "video_with_text_ehD4DV",
+    "faq_rb4QDU",
+    "related-products",
+    "white_space_f6iR4y"
+  ]
+}

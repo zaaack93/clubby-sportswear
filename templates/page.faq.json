@@ -1,0 +1,172 @@
+{
+  "sections": {
+    "image_with_text_overlay_qfmmfM": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled-3.jpg",
+        "indent_image": false,
+        "height": "natural",
+        "title": "",
+        "heading_size": "text-heading-feature",
+        "text": "",
+        "content_position": "justify-center items-center text-center",
+        "content_width_desktop": "lg:w-2\/3",
+        "color_scheme": "",
+        "scheme_text_color_only": false,
+        "cta_link": "",
+        "cta_text": "",
+        "cta_style": "link"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "lg:w-full",
+        "content_position": "lg:justify-start",
+        "color_scheme": "",
+        "override_header_footer_color_scheme": false
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "question": "Frequently asked question",
+            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "question": "Frequently asked question",
+            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+          }
+        },
+        "question-3": {
+          "type": "question",
+          "settings": {
+            "question": "Frequently asked question",
+            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+          }
+        },
+        "question-4": {
+          "type": "question",
+          "settings": {
+            "question": "Frequently asked question",
+            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+          }
+        },
+        "question-5": {
+          "type": "question",
+          "settings": {
+            "question": "Frequently asked question",
+            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+          }
+        },
+        "question-6": {
+          "type": "question",
+          "settings": {
+            "question": "Frequently asked question",
+            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+          }
+        },
+        "question-7": {
+          "type": "question",
+          "settings": {
+            "question": "Frequently asked question",
+            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+          }
+        },
+        "question-8": {
+          "type": "question",
+          "settings": {
+            "question": "Frequently asked question",
+            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question-1",
+        "question-2",
+        "question-3",
+        "question-4",
+        "question-5",
+        "question-6",
+        "question-7",
+        "question-8"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "FAQs",
+        "two_columns_desktop": true,
+        "heading_font": "font-heading",
+        "color_scheme": ""
+      }
+    },
+    "text_columns_fBBXeM": {
+      "type": "text-columns",
+      "settings": {
+        "title": "Refund Policy",
+        "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p><p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+        "desktop_columns": "lg:columns-3",
+        "text_alignment": "text-left",
+        "desktop_text_size": "lg:text-base",
+        "color_scheme": ""
+      }
+    },
+    "text_columns_TAjJn4": {
+      "type": "text-columns",
+      "settings": {
+        "title": "Returns",
+        "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p><p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+        "desktop_columns": "lg:columns-3",
+        "text_alignment": "text-left",
+        "desktop_text_size": "lg:text-base",
+        "color_scheme": ""
+      }
+    },
+    "text_columns_HdNgQc": {
+      "type": "text-columns",
+      "settings": {
+        "title": "Returns",
+        "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p><p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+        "desktop_columns": "lg:columns-3",
+        "text_alignment": "text-left",
+        "desktop_text_size": "lg:text-base",
+        "color_scheme": ""
+      }
+    },
+    "text_columns_VqQGkC": {
+      "type": "text-columns",
+      "settings": {
+        "title": "Privacy",
+        "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p><p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+        "desktop_columns": "lg:columns-3",
+        "text_alignment": "text-left",
+        "desktop_text_size": "lg:text-base",
+        "color_scheme": ""
+      }
+    },
+    "white_space_Az3abE": {
+      "type": "white-space",
+      "settings": {
+        "height": 6,
+        "hide_bottom_border_above": false,
+        "color_scheme": ""
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_qfmmfM",
+    "main",
+    "faq",
+    "text_columns_fBBXeM",
+    "text_columns_TAjJn4",
+    "text_columns_HdNgQc",
+    "text_columns_VqQGkC",
+    "white_space_Az3abE"
+  ]
+}
