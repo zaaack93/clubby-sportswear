@@ -8,6 +8,14 @@
           "settings": {
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+            "enable_collapsible_tabs": true,
+            "truncate_description": false,
+            "max_words": 30
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -51,14 +59,6 @@
           "settings": {
             "low_inventory_threshold": 16,
             "show_inventory_quantity": true
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "enable_collapsible_tabs": true,
-            "truncate_description": false,
-            "max_words": 30
           }
         },
         "collapsible_tab_RMxGNj": {
@@ -118,13 +118,13 @@
       },
       "block_order": [
         "title",
+        "description",
         "price",
         "variant_picker",
         "popup_agFRDq",
         "quantity_selector_hMd6hy",
         "buy_buttons",
         "inventory_a7jgcG",
-        "description",
         "collapsible_tab_RMxGNj",
         "collapsible_tab_EMbTpB",
         "collapsible_tab_jrMkeQ",
